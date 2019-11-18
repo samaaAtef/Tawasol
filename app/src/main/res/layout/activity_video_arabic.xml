@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:opencv="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#b8afa8">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:id="@+id/txtpredictletter"
+                android:layout_above="@+id/HelloOpenCvView2arabic"
+                />
+
+            <org.opencv.android.JavaCameraView
+                android:layout_width="fill_parent"
+                android:layout_height="500dp"
+                android:visibility="gone"
+                android:id="@+id/HelloOpenCvView2arabic"
+                android:layout_below="@+id/txtpredict2arabic"
+                opencv:show_fps="true"
+                opencv:camera_id="any" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:padding="10dp"
+                android:id="@+id/txtpredict2arabic"
+                android:background="@drawable/squre_for_text"
+                android:layout_below="@+id/btncapturearabic"
+                />
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/closevideo"
+                android:layout_below="@+id/HelloOpenCvView2arabic"
+                android:layout_marginTop="20dp"
+                android:id="@+id/btncapturearabic"
+                />
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>
+

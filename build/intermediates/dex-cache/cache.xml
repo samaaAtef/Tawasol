@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_21ab234a0815099292853836bf0ab8ad48564efc.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_06b1484de81b1ea45d0e538b25a72758b491201c.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_8583d86e9a1aa5188c93253eabb60a9866e4f4f9.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_e868634708a1a52c0205db923626be2f9c8a1a5d.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="255c878b5913930deac25225e9ff2746a60815a2">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6a20688ecef76e36d9703eee9d13800e1f98eba4.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_22e3c71748e59bac0db14ae7ed71a4ac922a0b57.jar" />
+    </item>
+    <item
+        jar="C:\Users\sm\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5.1\eecbb0b998e77629862a13d957d552b3be58fc4e\httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5.1_e83b5f8d080a6507e0f7f713d3a7ca815ecbe2e2.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_2a818f00a260cefafa11cb89c35467284dca7531.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_ee5d362bdcf75c0a78bdfdff554493737906d4f6.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_77bac9c086c6e3f0e7836b2cdb8826a0433e1301.jar" />
+    </item>
+    <item
+        jar="C:\Users\sm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_996920ee0cf2b1e3a12850753e88a481b31b14bb.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_b3b62d2537a4441620a924d3a0bed3f06b24a158.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_d3d3e4bd4acec966f849e1591c9644afa9035c25.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_d43becd011bb14d12ff957656952876adb174431.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_88a621274df9807a4d34bed33bb583d40aadb34f.jar" />
+    </item>
+    <item
+        jar="D:\TabLayoutDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="6f11358c0ad92a0cf3f6f1327b8e2a26669236f7">
+        <dex dex="D:\TabLayoutDemo\app\build\intermediates\pre-dexed\debug\instant-run_43e8fc97ca1a8c17972c362500f442382df47a2e.jar" />
+    </item>
+
+</items>
